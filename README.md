@@ -5,9 +5,9 @@ I'm Ignacy, a proactive and enthusiastic programmer with a passion for frontend 
 I'm not just a coder. I'm a collaborator eager to contribute, learn, and grow within a dynamic team environment. Whether it's diving into new technologies, problem-solving, or simply lending a helping hand, I'm committed to delivering results and fostering a positive work culture.
 
 Let's connect and embark on exciting projects together! Feel free to reach out via <a href="https://www.linkedin.com/in/ignacy-kozub/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Linkedin logo"  />
   </a> or email at <a href="mailto:erikhenriquealvescunha@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=erikhenriquealvescunha@gmail.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Outlook logo"  />
+    <img src="https://img.shields.io/static/v1?message=ignacykozub@gmail.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Outlook logo"  />
   </a>
 </div> I look forward to hearing from you!
 
