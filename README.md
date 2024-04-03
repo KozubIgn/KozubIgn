@@ -42,15 +42,14 @@ Let's connect and embark on exciting projects together! Feel free to reach out v
 
 ## Work experience 💻
 
-<div align="left">
+
 [<img align="left" height="94px" width="94px" alt="Software-Mind" src="https://ceo.com.pl/wp-content/uploads/2012/04/Software-Mind.png"/>](https://softwaremind.com/)
 
 **Junior Software Engineer | Frontend** \
-[**Software Mind)**](https://softwaremind.com/) • Full-time \
+[**Software Mind**](https://softwaremind.com/) • Full-time \
 Technologies: `Angular v12~v16`, `TypeScript`, `JavaScript`, `Bootstrap`, `Html` , `CSS` \
-Projects: [Benify](https://www.benify.com//)
+Projects: [Benify](https://www.benify.com/)
 <br/>
-</div>
 
 <!--
 **KozubIgn/KozubIgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
