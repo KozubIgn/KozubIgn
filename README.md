@@ -38,7 +38,15 @@ Let's connect and embark on exciting projects together! Feel free to reach out v
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="12" />
 </div>
-  
+## — Work experience 💻
+
+[<img align="left" height="94px" width="94px" alt="Software-Mind" src="https://ceo.com.pl/wp-content/uploads/2012/04/Software-Mind.png"/>](https://softwaremind.com/)
+
+**Junior Software Engineer | Frontend** \
+[**Software Mind)**](https://softwaremind.com/) • Full-time \
+Technologies: `Angular v12~v16`, `TypeScript`, `JavaScript`, `Bootstrap`, `Html` , `CSS` \
+Projects: [Benify](https://www.benify.com//)
+<br/>
 
 <!--
 **KozubIgn/KozubIgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
