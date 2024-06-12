@@ -26,6 +26,8 @@ Let's connect and embark on exciting projects together! Feel free to reach out v
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" /> 
+     <img src="https://skillicons.dev/icons?i=reactivex" height="30" alt="rxjs logo"  />
+  <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />  
     <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
@@ -37,6 +39,8 @@ Let's connect and embark on exciting projects together! Feel free to reach out v
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
 </div>
 
