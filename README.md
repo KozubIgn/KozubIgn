@@ -22,7 +22,7 @@ Let's connect and embark on exciting projects together! Feel free to reach out v
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-    <img src="[https://skillicons.dev/icons?i=sass](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sass.svg)" height="30" alt="sass logo"  />
+    <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" /> 
