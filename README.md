@@ -19,29 +19,29 @@ Let's connect and embark on exciting projects together! Feel free to reach out v
   <img width="12" />
  <code><img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  /> TypeScript</code>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <code><img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  /> HTML5 </code>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+ <code> <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  /> CSS3 </code>
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+   <code> <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  /> SASS </code>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo"  />
+ <code> <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo"  /> Angular </code>
   <img width="12" />
-     <img src="https://skillicons.dev/icons?i=reactivex" height="30" alt="rxjs logo"  />
+    <code> <img src="https://skillicons.dev/icons?i=reactivex" height="30" alt="rxjs logo"  /> Rxjs </code>
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <code> <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  /> Node.js </code>
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+   <code> <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  /> Express.js </code>
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+ <code>  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  /> MongoDB </code>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+ <code> <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  /> Bootstrap </code>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
+ <code> <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  /> Tailwind CSS </code>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+ <code> <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  /> Postman </code>
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <code>  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  /> Figa </code>
   <img width="12" />
 </div>
 
