@@ -16,8 +16,8 @@ Let's connect and embark on exciting projects together! Feel free to reach out v
 <div align="left">
 
   <code><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  /> JavaScript</code> 
-
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+ <code><img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  /> TypeScript</code>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
