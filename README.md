@@ -11,6 +11,8 @@ Let's connect and embark on exciting projects together! Feel free to reach out v
   </a>
 </div> I look forward to hearing from you!
 
+ 🚀 Currently working on: [Taste It.](https://github.com/KozubIgn/taste-it-app) 🚀 
+
 ## Skillset 🛠️
 
 <div align="left">
