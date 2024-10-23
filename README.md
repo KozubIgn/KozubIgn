@@ -53,7 +53,7 @@ Let's connect and embark on exciting projects together! Feel free to reach out v
 
 **Junior Software Engineer | Frontend** \
 [**Software Mind**](https://softwaremind.com/) • Full-time \
-Technologies: `Angular v12~v16`, `TypeScript`, `JavaScript`, `Bootstrap`, `Html`, `CSS` \
+Technologies: `Angular v11~v16`, `TypeScript`, `JavaScript`, `Bootstrap`, `HTML5`, `CSS3`, `SASS` \
 Project: [Benify](https://www.benify.com/)
 <br/>
 
